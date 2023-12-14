@@ -1,5 +1,7 @@
 <script setup>
+//Aplicação feita a partir do video: 
 //https://www.youtube.com/watch?v=qhjxAP1hFuI
+
 import {ref, onMounted, computed, watch} from 'vue'
 
 //Criação das variaveis utilizadas pela aplicação
